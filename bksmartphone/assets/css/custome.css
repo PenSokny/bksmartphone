@@ -1,0 +1,410 @@
+
+ body{
+
+ 	margin: 0px;
+ 	padding: 0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	min-height: 50%;
+ }
+ 
+.active2
+{
+
+	color: black !important;
+	background-color: yellow;
+	padding: 5px;
+	
+
+}
+#linkfooter p a
+{
+
+	text-decoration: none;
+	color: blue;
+	font-size: 15px;
+}
+
+.middlebar p 
+{
+
+	font-size: 25px;
+	color:blue;
+}
+.product {
+	height: 250px;
+}
+#heightTech a{
+
+	height: 500px;
+}
+.product a{
+
+	text-decoration: none;
+}
+.link_product a
+{
+	text-decoration: none;
+
+}
+.product_accessory
+{
+	height: 300px;
+
+}
+
+
+.price_control
+{
+
+	text-decoration: line-through;
+}
+.other_phone
+{
+	float: right;
+
+
+}
+.sign_in
+{
+
+	width:auto;
+	height:auto;
+	background: black url(./image/background.png) top left repeat-x;;
+	color: white;
+	
+}
+.sign_up p
+{
+
+	color: red;
+	font-size: 15px;
+
+}
+.page_order
+{
+
+	
+
+}
+#dathang
+{
+
+
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+}
+
+#image_order
+{
+
+	width: 110px;
+	height: 125px;
+	position: relative;
+    top: 26px;
+    left: 95px
+
+}
+#name_order
+{
+	color: black;
+	position: relative;
+   
+
+}
+#price_order
+{
+
+	color: red;
+	position: relative;
+   
+
+}
+#promotion_gift_order
+{
+	position: relative;
+   
+
+}
+#accessory_order
+{
+	position: relative;
+   
+
+}
+#promotion_detail_order
+{
+
+	position: relative;
+   
+
+}
+.page_order p
+{
+
+	color: red;
+	font-size: 15px;
+}
+.success_order h4
+{
+	
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+
+}
+.price_product
+{
+
+	color: #d0021b;
+	font-weight: bold;
+}
+.name_product
+{
+	color: #333;
+	font-weight: bold;
+	text-decoration:none;
+
+}
+.accessory_style
+{
+
+	text-align: center;
+}
+.accessory_image
+{
+	display: block;
+	width: 170px;
+	height: 190px;
+	margin-left: 90px;
+}
+.name_accessory
+{
+
+	margin-left: 60px;
+}
+.link_product
+{
+
+	text-decoration:none;
+}
+.title_product h3 a
+{
+	color: blue;
+	font-weight: bold;
+	text-decoration:none;
+
+}
+
+
+#border
+{
+
+	border: 1px solid black;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 1px;
+	padding-right: 1px;
+	
+}
+#comment
+{
+
+	resize: none;
+	
+}
+
+#send_comment
+{
+	left: 75%;
+	float: right;
+}
+.comment_phone p
+{
+	color: red;
+	font-size: 15px;
+
+}
+.name_comment{
+
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+.imagename_comment
+{
+
+	background-color: gray;
+	color: black;
+	font-weight: bold;
+	font-size: 17px;
+	padding: 6px;
+}
+#style_home h3
+{
+	color: blue;
+	font-weight: italic;
+
+}
+#loadmore_accessory
+{
+	float: right;
+}
+#loadmore_phone
+{
+	float: right;
+}
+.inforofphone {
+
+	height: 70px;
+
+}
+
+
+.tinmoi
+{
+
+	height:240px;
+	width:390px;
+	overflow:auto;
+	padding:1%
+	overflow-x:hidden;
+	color: black;
+}
+
+	
+.sign_in
+{
+		margin-top: 10%;
+		color: white;
+}
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  border-top: 1px solid #eee;
+  background-color:#f0f5f5; 
+  text-align: center;
+
+ }
+
+.navbar-inverse .navbar-nav>.active>a
+{
+
+	color: white;
+	background-color: blue;
+}
+.active
+{
+
+	color: white !important;
+	background-color: blue;
+}
+
+
+.image_techInfor img
+{
+
+	width: 850px;
+	height: 400px;
+	margin-left: 30px;
+
+}
+.name_technologyInfor
+{
+
+	margin-left: 40px;
+	color: #333;
+	font-size: 15px;
+	margin-right: 80px;
+
+
+}
+.slider6{
+margin-left: 0px;
+
+}
+
+
+/*admin*//*admin*//*admin*//*admin*//*admin*//*admin*//*admin*//*admin*//*admin*/
+
+.phone_Admin  ul 
+{
+
+	list-style-type: none;
+	
+}
+.phone_Admin  ul li
+{
+
+	font-size: 15px;
+	display: inline;
+	
+
+
+
+}
+.phone_Admin  ul li a
+{
+
+	
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+}
+.accessory_Admin ul 
+{
+
+	list-style-type: none;
+	
+}
+.accessory_Admin  ul li
+{
+
+	font-size: 15px;
+	display: inline;
+	
+
+
+
+}
+.accessory_Admin  ul li a
+{
+
+	
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 10px;
+	margin: 15px;
+}
+.menu_select
+{
+
+	background-color: yellow;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	margin: 15px;
+}
+.button_add{
+
+
+	float: right;
+}
+.slider6 .click_buy{
+
+	margin-bottom: 50px; 
+}
+#titletech p{
+
+	padding: 10px;
+	margin: 10px;
+}

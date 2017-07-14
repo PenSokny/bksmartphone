@@ -1,0 +1,12 @@
+﻿+ Hướng dẫn cài đặt 
+-	Download XAMPP và cài đặt 
+-	Chạy XAMPP 
+-	Gõ trên web brownser là  :    http://localhost/phpmyadmin/
+-	Tạo một database mới tên là   :  bksmartphone
+-	Import file trong thư mục: Source Code/bksmartphone.sql
+-	Copy code trong thư mục : Source Code/bksmartphone vào thư mục xampp/htdocs
+-	Gõ trên web brownser là  http://localhost/bksmartphone /
+-	Chương trình chạy thành công 
+-	Vào phần admin bằng
+•	Gõ http://localhost/bksmartphone/index.php/register/sign_in  
+•	Đăng nhập với email là  admin@gmail.com và mặt khẩu là  admin
